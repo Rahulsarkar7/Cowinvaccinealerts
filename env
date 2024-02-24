@@ -1,0 +1,4 @@
+REQUEST_URL1="enter_your_callme_bot_API_request_here" #Callme bot API was used to make a call in telegram 
+ REQUEST_URL2="enter_the_CoWin_API_request_here_to_search_for_vaccine_slot_availablity" #CoWin official API was used, which gives a json response. The API is available at https://apisetu.gov.in/api/cowin 
+ REQUEST_URL3="enter_your_callme_bot_API_request_here" #Callme bot API was used to send text message in telegram 
+ PIN=000000 #The pincode of the place
